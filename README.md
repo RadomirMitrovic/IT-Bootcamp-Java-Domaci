@@ -2,7 +2,7 @@
 Domaci zadaci za kurs "Osnove programiranja (Java)"
 
 # Uputstvo
-- Na licnom drajvu napraviti novi folder i imenovati ga "Domaci"
+- Na dodeljenom drajvu napraviti novi folder i imenovati ga "Domaci"
 - U tom folderu (Domaci) napraviti nove foldere za svaku nedelju i imenovati ih "Nedelja x", gde je x broj nedelje (1, 2, 3, ...)
 - U svakom od tih foldera napraviti dva nova foldera "Sreda" i "Nedelja". Domace za sredu stavljati u folder "Sreda", a domace za nedelju u folder "Nedelja"
 - Za svaki domaci zadatak napraviti zaseban folder i imenovati ga smisleno (Zadatak1, ImeZadatka i slicno)
