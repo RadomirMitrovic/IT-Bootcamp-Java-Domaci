@@ -6,6 +6,7 @@ Domaci zadaci za kurs "Osnove programiranja (Java)"
 - U tom folderu (Domaci) napraviti nove foldere za svaku nedelju i imenovati ih "Nedelja x", gde je x broj nedelje (1, 2, 3, ...)
 - U svakom od tih foldera napraviti dva nova foldera "Sreda" i "Nedelja". Domace za sredu stavljati u folder "Sreda", a domace za nedelju u folder "Nedelja"
 - Za svaki domaci zadatak napraviti zaseban folder i imenovati ga smisleno (Zadatak1, ImeZadatka i slicno)
+- Domaci zadaci ce biti postavljani ovde (na github-u) gde ce se nalaziti i dodatni materijali za domace
 
 # Pregledanje domacih
 - Rok za isporuku domacih zadataka za sredu je do srede u 22h, a za nedelju je do nedelje u 20h.
